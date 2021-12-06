@@ -1,8 +1,8 @@
 # NFL-Speed-Prediction
 
-This is the final project of "Time Series Analysis", a course at the programme of Data and Business Analytics at Rennes School of Business, France. This study aims to use two types of method to predict NFL players' speed during each play in games, including ARIMA and LSTM.
+This is the final project of _Time Series Analysis_, a course at the programme of Data and Business Analytics at Rennes School of Business, France. This study aims to use two types of method to predict NFL players' speed during each play in games, including ARIMA and LSTM.
 
-## Authors
+## Coding Authors
 - Jay Chiehen Liao (jay-chiehen.liao@rennes-sb.com)
 - Chin-Ching Yang (chin-ching.yang@rennes-sb.com)
 
