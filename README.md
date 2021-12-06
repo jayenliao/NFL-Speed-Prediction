@@ -31,4 +31,26 @@ In each data frame of these three years, there are several games which consist o
 - `./utils.py`: functions for data loading, preprocessing, and visualization for LSTMs
 - `./LSTM-results.ipynb`: the summaried visualization of LSTMs.
 - `./EDA-and-ARIMA.ipynb`: exploratory data analysis and all procefures of ARIMA
+- `./data_preprocessing.ipynb`: generating smaller dataset
 
+## Usage of training LSTM
+
+- Training with CPU
+
+```
+python3 main.py --device 'cpu'
+```
+
+- Training with GPU
+
+```
+python3 main.py --device 'cuda'
+```
+
+- Change #epochs
+
+```
+python3 main.py --epochs 1000
+```
+
+For more details, please check `./args.py`.
